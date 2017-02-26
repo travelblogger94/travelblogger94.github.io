@@ -1,0 +1,37 @@
+.active-link:hover {
+	color: white;
+}
+
+.background-picture {
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size:cover;
+}
+
+.nav-link {
+	display:inline-block;
+}
+
+.box {
+	position: absolute;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    padding: 0px 200px;
+}
+
+.amatic-sc {
+	font-family: 'Amatic SC', cursive;
+}
+
+h1 {
+	font-size: 700%;
+	color: white;
+}
+
+a {
+	color: white;
+	font-size: 200%;
+}
+

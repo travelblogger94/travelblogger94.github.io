@@ -1,0 +1,22 @@
+.profilepic{
+	max-width:100%;
+}
+
+.card{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+.icon-space{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.social-icon:hover {
+	text-decoration: none;
+	color: pink;
+}
+
+.active-link {
+	color:pink;
+}
